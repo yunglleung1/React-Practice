@@ -10,7 +10,7 @@ import Register from './components/Register/Register';
 import FaceRecognition from './components/FaceRecognition/FaceRecognition';
 import Clarifai from 'clarifai';
 const app = new Clarifai.App({
- apiKey: 'e42706cab8524fab8bed529387e67a2c'
+ apiKey: ''
 });
 
 
