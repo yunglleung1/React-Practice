@@ -1,0 +1,13 @@
+.Logo {
+  text-align: left;
+  padding-left: 50px;
+}
+
+.logo {
+    width: 5vh;
+    transition: all 1s ease;
+}
+
+.logo:hover {
+  width: 10vh;
+}
