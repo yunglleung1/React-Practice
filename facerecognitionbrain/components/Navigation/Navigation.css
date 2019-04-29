@@ -1,0 +1,15 @@
+nav {
+  display: flex;
+  justify-content: flex-end;
+}
+
+#signout {
+  color: black;
+  font-size: 20px;
+  padding: 10px;
+}
+
+#signout:hover {
+  color: #666633;
+  cursor: pointer;
+}
